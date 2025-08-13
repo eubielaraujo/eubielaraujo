@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Python, AI and Data Science<br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning about AI <br>💬 Ask me about Python and what to do with it<br>⚡ Fun fact, i love musical instruments
-
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eubielaraujo&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=eubielaraujo&theme=dark&hide_border=true" width="48%" />
