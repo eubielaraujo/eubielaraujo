@@ -7,7 +7,6 @@
 </p>
 
 <p float="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=eubielaraujo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eubielaraujo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
