@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eubielaraujo&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eubielaraujo&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="43.7%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=eubielaraujo&theme=dark&hide_border=true" width="48%" />
 </p>
 
