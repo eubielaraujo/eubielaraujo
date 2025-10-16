@@ -1,8 +1,16 @@
-![eubielaraujo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eubielaraujo&theme=default&hide_border=true)
+# Hi, I'm Gabriel! 👋
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+I'm a Computer Science student and a lover of technology, I'm currently looking for adventures in the field of ​​AI and Machine Learning, and in my free time I try to learn something different.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-araujo-707799221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielaraujo2334@gmail.com) 
+![eubielaraujo's Stats](https://github-readme-stats.vercel.app/api?username=eubielaraujo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sqlite,anaconda,git,linux)](https://skillicons.dev)
+
+## 📬 Get in Touch
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/gabriel-araujo-707799221)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:gabrielaraujo2334@gmail.com) 
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
