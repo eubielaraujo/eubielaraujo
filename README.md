@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel! 👋
 
-I'm a Computer Science student and a lover of technology, I'm currently looking for adventures in the field of ​​AI and Machine Learning, and in my free time I try to learn something different.
+I'm a Computer Science student and a lover of technology, I'm currently looking for adventures in the field of ​​Data and Machine Learning, and in my free time I try to learn something different.
 
 ![eubielaraujo's Stats](https://github-readme-stats.vercel.app/api?username=eubielaraujo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
