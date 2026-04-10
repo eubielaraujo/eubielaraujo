@@ -1,11 +1,13 @@
 # Hi, I'm Gabriel! 👋
 
-I'm a Computer Science student and a lover of technology, I'm currently looking for adventures in the field of ​​Data and Machine Learning, and in my free time I try to learn something different like Web Development, Automation, Pentest and more.
+Software Developer passionate about programming and problem-solving. Currently, I am improving my skills in Web Development, Artificial Intelligence, Python, and Automation, always seeking to learn new technologies and industry practices.
 
-![eubielaraujo's Stats](https://github-readme-stats.vercel.app/api?username=eubielaraujo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+My goal is to work in software development, performing system coding and contributing to the continuous improvement of solutions with creativity, logic, and innovation.
+
+![eubielaraujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubielaraujo&show_icons=true&theme=transparent)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sqlite,anaconda,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,python,mysql,git,linux)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/gabriel-araujo-707799221)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:gabrielaraujo2334@gmail.com) 
