@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel! 👋
+# Hi, I'm Gabriel!
 
 Software Developer passionate about programming and problem-solving. Currently, I am improving my skills in Web Development, Artificial Intelligence, Python, and Automation, always seeking to learn new technologies and industry practices.
 
