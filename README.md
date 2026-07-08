@@ -4,8 +4,6 @@ Software Developer passionate about programming and problem-solving. Currently, 
 
 My goal is to work in software development, performing system coding and contributing to the continuous improvement of solutions with creativity, logic, and innovation.
 
-![eubielaraujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eubielaraujo&show_icons=true&theme=transparent)
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,python,mysql,git,linux)](https://skillicons.dev)
 
